@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyDkFriwWIi70b8LvSbXg8oJtcnDF0pu5Nw";
+
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 const chatBox = document.getElementById('chat-box');
